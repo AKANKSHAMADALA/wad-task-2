@@ -1,0 +1,19 @@
+<html>
+<head>
+<title> Hyperlink
+</title>
+<style>
+Body
+{
+background-color: pink;
+padding:5px 5px;
+}
+</style>
+</head>
+<body>
+<a href="https://en.wikipedia.org/wiki/Reliance_Retail" name="Hyperlink" target="f32" title="About us">About us</a><br>
+<a href="https://www.ajio.com/" name="Hyperlink" target="f32" title="What we do">What we do</a><br>
+<a href="https://infobeamsolution.com/ajio-listing-services-catalogue-service/" name="Hyperlink" target="f32" title="Products">Products and Services</a><br>
+<a href="https://relianceretail.com/ajio.html " name="Hyperlink" target="f32" title="Profile">Comapny Profile</a><br>
+</body>
+<html>
